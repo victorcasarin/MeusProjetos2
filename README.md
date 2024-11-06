@@ -1,4 +1,4 @@
-# MeusProjetos2
+# Meus Projetos 2
  Meu repositório do curso de Git e Github
 
-repositório criado durante a aula
+repositório criado durante a aula.
